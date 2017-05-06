@@ -1,0 +1,8 @@
+*.a
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+.svn
+.DS_Store
