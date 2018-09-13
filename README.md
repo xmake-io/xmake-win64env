@@ -12,7 +12,6 @@ xmake-win64env is a win64 toolchains environment of xmake.
 * [Curl v7.54.0](https://bintray.com/artifact/download/vszakats/generic/curl-7.54.0-win64-mingw.7z)
 * [Unzip v5.51](http://gnuwin32.sourceforge.net/downlinks/unzip-bin-zip.php)
 * [7zip 16.04](http://www.7-zip.org/a/7z1604-x64.exe)
-* [CMake 3.8.1](https://cmake.org/files/v3.8/cmake-3.8.1-win64-x64.zip)
 
 If you want to known more, please refer to:
 
